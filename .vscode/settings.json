@@ -1,0 +1,11 @@
+{
+    "code-runner.runInTerminal": true,
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "editor.mouseWheelZoom": true,
+    "files.exclude": {        
+        "**/*.exe":true, //1단계 폴더 하위 exe 파일
+        "**/test" :true //1단계 하위 폴더내 test폴더
+    }    
+}
